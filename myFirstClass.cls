@@ -4,5 +4,6 @@ public class myFirstClass {
         system.debug('myFirstMethod');
         
         //this is branch 2
+       //second comment from br1
     }
 }
